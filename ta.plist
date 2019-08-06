@@ -17,25 +17,25 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>57*57尺寸的icon下载地址</string>
+                    <string>https://github.com/wishchen/imo/blob/master/an.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>512*512尺寸的icon下载地址</string>
+                    <string>https://github.com/wishchen/imo/blob/master/512.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>内测app的bundleidentifier</string>
+                <string>com.yuankan.net.hair</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>应用名称</string>
+                <string>tony</string>
             </dict>
         </dict>
     </array>
